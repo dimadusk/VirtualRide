@@ -159,15 +159,15 @@ Traditional Chinese (zh-rTW), Arabic (ar), Hindi (hi), Hebrew (he)
 
 ## 🛡 License
 
-\`\`\`
+```
 MIT License
 
 © 2025 dimadusk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
-\`\`\`
+```
 
-See full [LICENSE](LICENSE) for details.
+See full [LICENSE](LICENSE) for more details.
 
 ---
 
