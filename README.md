@@ -184,23 +184,25 @@ If this helped you, consider ⭐ starring the repo!
 
 | Main Screen           | Workout History       | Performance Analysis    |
 |----------------------|----------------------|------------------------|
-| ![Main Screen](URL_TO_MAIN_SCREENSHOT) | ![History](URL_TO_HISTORY_SCREENSHOT) | ![Analysis](URL_TO_ANALYSIS_SCREENSHOT) |
+| ![Main Screen](screenshots/phone/home_screen.png) | ![History](screenshots/phone/stats_screen.png) | ![Analysis](screenshots/phone/analysis_screen.png) |
 
 | In-Workout           | Settings              | All Tours               |
 |----------------------|-----------------------|-------------------------|
-| ![Workout](URL_TO_WORKOUT_SCREENSHOT) | ![Settings](URL_TO_SETTINGS_SCREENSHOT) | ![All Tours](URL_TO_TOURS_SCREENSHOT) |
+| ![Workout](screenshots/phone/ride_map.png) | ![Settings](screenshots/phone/settings.png) | ![All Tours](screenshots/phone/tours_screen.png) |
 
 🎞️ **Phone Demo (.gif)**  
-![Phone Demo](URL_TO_PHONE_DEMO_GIF)
+![Phone Demo](screenshots/phone/demo.gif)
+
+---
 
 ### 💻 Tablet / Landscape UI
 
 | Main Screen (Landscape) | Performance Analysis (Landscape) |
 |-------------------------|---------------------------------|
-| ![Main Landscape](URL_TO_MAIN_LANDSCAPE_SCREENSHOT) | ![Analysis Landscape](URL_TO_ANALYSIS_LANDSCAPE_SCREENSHOT) |
+| ![Main Landscape](screenshots/tablet/home_screen.png) | ![Analysis Landscape](screenshots/tablet/analysis_screen.png) |
 
 🎞️ **Tablet Demo (.gif)**  
-![Tablet Demo](URL_TO_TABLET_DEMO_GIF)
+![Tablet Demo](screenshots/tablet/demo.gif)
 
 ---
 
