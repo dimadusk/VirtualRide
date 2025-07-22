@@ -6,7 +6,7 @@ Virtual Ride transforms your indoor cardio workouts into immersive outdoor adven
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Fitness-BLE%20%7C%20GATT-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
 </p>
 
 ---
