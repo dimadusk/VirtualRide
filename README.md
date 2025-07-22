@@ -197,9 +197,9 @@ If this helped you, consider ⭐ starring the repo!
 
 ### 💻 Tablet / Landscape UI
 
-| Main Screen (Landscape) | Performance Analysis (Landscape) |
+| Main Screen (Landscape) | Menu (Landscape) |
 |-------------------------|---------------------------------|
-| ![Main Landscape](screenshots/tablet/home_screen.png) | ![Analysis Landscape](screenshots/tablet/analysis_screen.png) |
+| ![Main Landscape](screenshots/tablet/home_screen.png) | ![Analysis Landscape](screenshots/tablet/menu.png) |
 
 🎞️ **Tablet Demo (.gif)**  
 ![Tablet Demo](screenshots/tablet/demo.gif)
